@@ -1,8 +1,8 @@
-<center><h1>Fuckin' Hello World.</h1>
+<center><h1>Hello, World.</h1>
 <br>
 <img src="https://github.com/ianmcphee/ianmcphee.github.io/blob/master/0.jpg?raw=true"><br>
 <br>
-I am a web systems manager with extensive knowledge of BLOX CMS, and I am constantly adding new skill sets to my tool belt. I am looking to work for a local Indianapolis publication that needs help navigating the new frontier of digital content management and online journalism. <br>
+I am a web systems manager with extensive knowledge of BLOX CMS, and I am constantly adding new skill sets to my tool belt. I am looking to work for a local Indianapolis publication that needs help navigating the new frontier of digital content management and online journalism.<br></center>
 <br>
 <br>  
   <h3>NUVO Feb ‘18 - Present</h3>
