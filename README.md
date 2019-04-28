@@ -5,7 +5,7 @@
 I am a web systems manager with extensive knowledge of BLOX CMS, and I am constantly adding new skill sets to my tool belt. I am looking to work for a local Indianapolis publication that needs help navigating the new frontier of digital content management and online journalism. <br>
 <br>
 <br>  
-  <h3><b><u>NUVO Feb ‘18 - Present</b></u></h3>
+  <h3><b><u>NUVO Feb ‘18 - Present</h3></b></u>
   <ul>
 <li>Manage all aspects of NUVO.net including design, development, moderation, maintenance and customer service.</li>
 <li>Work closely with CMS provider to develop improvements to user interface and user experience of their proprietary software.</li>
